@@ -20,7 +20,7 @@ body{
     position: absolute;
     /* width: 540px; */
     width: 310px;
-    height: 380px; 
+    height: 400px; 
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
