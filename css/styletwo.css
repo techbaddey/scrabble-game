@@ -18,8 +18,9 @@ body{
 
 .info_box{
     position: absolute;
-    width: 540px;
-    height: 285px;
+    /* width: 540px; */
+    width: 310px;
+    height: 380px; 
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -54,8 +55,9 @@ body{
     width: 100%;
     border-bottom: 1px solid lightgrey;
     display: flex;
+    text-align: center;
     align-items: center;
-    padding: 0 30px;
+    padding: 0 25px;
     border-radius: 5px 5px 0 0;
     font-size: 20px;
     font-weight: 600;
@@ -63,6 +65,7 @@ body{
 
 .info_box .info-list{
     padding: 15px 30px;
+    margin-bottom: 10px;
 }
 
 .info_box .info-list .info{

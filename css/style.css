@@ -89,6 +89,8 @@ body{
   padding: 13px;
   font-size: 16px;
   border-radius: 5px;
+  margin-left: 3px;
+  margin-right: 3px;
   transition: all 0.3s ease;
 }
 
@@ -101,6 +103,8 @@ body{
   padding: 13px;
   font-size: 16px;
   border-radius: 5px;
+  margin-left: 3px;
+  margin-right: 3px;
   transition: all 0.3s ease;
   text-decoration: none;
   text-align: center;
