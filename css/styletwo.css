@@ -7,12 +7,12 @@
 }
 
 body{
-    background-color: violet;
+    background-color: #ff9a44;
 }
 
 ::selection{
     color: #fff;
-    background: violet;
+    background: #ff9a44;
 }
 
 
